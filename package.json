@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dnstld/tailwind/issues"
   },
-  "homepage": "https://github.com/dnstld/tailwind#readme"
+  "homepage": "https://github.com/dnstld/tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^0.6.5"
+  }
 }
