@@ -19,7 +19,12 @@
   },
   "homepage": "https://github.com/dnstld/tailwind#readme",
   "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "css-loader": "^1.0.0",
     "lodash": "^4.17.10",
+    "postcss-loader": "^3.0.0",
+    "precss": "^3.1.2",
+    "style-loader": "^0.23.0",
     "tailwindcss": "^0.6.5",
     "webpack": "^4.17.2",
     "webpack-cli": "^3.1.0",
