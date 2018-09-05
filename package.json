@@ -1,0 +1,20 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnstld/tailwind.git"
+  },
+  "keywords": [],
+  "author": "Denis Toledo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnstld/tailwind/issues"
+  },
+  "homepage": "https://github.com/dnstld/tailwind#readme"
+}
